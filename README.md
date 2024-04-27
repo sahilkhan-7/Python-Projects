@@ -1,2 +1,2 @@
-# python-basic-projects
-This repository provides basic python projects that you can build as a beginner python programmer.
+# Python Projects for Beginner 
+Python Projects you should build as a beginner
